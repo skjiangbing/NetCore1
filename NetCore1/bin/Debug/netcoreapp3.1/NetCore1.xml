@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NetCore1</name>
+    </assembly>
+    <members>
+        <member name="T:NetCore1.Controllers.ProductController">
+            <summary>
+            自创建的测试Controller
+            </summary>
+        </member>
+        <member name="M:NetCore1.Controllers.ProductController.GetProducts">
+            <summary>
+            获取产品信息接口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:NetCore1.Controllers.WeatherForecastController">
+            <summary>
+            天气管理
+            </summary>
+        </member>
+        <member name="M:NetCore1.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气接口数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:NetCore1.Models.Product.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:NetCore1.Models.Product.Name">
+            <summary>
+            产品名称
+            </summary>
+        </member>
+        <member name="P:NetCore1.Models.Product.Price">
+            <summary> 
+            产品单价
+            </summary>
+        </member>
+        <member name="M:NetCore1.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:NetCore1.Startup.Configuration">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:NetCore1.Startup.ApiName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:NetCore1.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:NetCore1.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
