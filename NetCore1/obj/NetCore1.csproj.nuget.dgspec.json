@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\NetCore1\\NetCore1\\NetCore1.csproj": {}
+    "F:\\NetCore1\\NetCore1\\NetCore1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\NetCore1\\NetCore1\\NetCore1.csproj": {
+    "F:\\NetCore1\\NetCore1\\NetCore1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\NetCore1\\NetCore1\\NetCore1.csproj",
+        "projectUniqueName": "F:\\NetCore1\\NetCore1\\NetCore1.csproj",
         "projectName": "NetCore1",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\NetCore1\\NetCore1\\NetCore1.csproj",
+        "projectPath": "F:\\NetCore1\\NetCore1\\NetCore1.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\NetCore1\\NetCore1\\obj\\",
+        "outputPath": "F:\\NetCore1\\NetCore1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

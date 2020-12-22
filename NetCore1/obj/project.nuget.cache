@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lc2L9LeA7gvF3Rz3AMza5KFjUbGq/6DpkMu7j9yKAuWG7gEqAzKNuMUd2Yuxh6bizumibCSCTYOxFkUgBckiUA==",
+  "dgSpecHash": "G9NRNgT2Yd5fNon86RcmfQNMPbgQ6nANe1X9gSB6FjBS2BlCUumRPgBpMdc/6jvbce6i//DrYliATZ6vrMb/XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\NetCore1\\NetCore1\\NetCore1.csproj",
+  "projectFilePath": "F:\\NetCore1\\NetCore1\\NetCore1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
